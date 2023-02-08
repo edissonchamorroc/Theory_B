@@ -44,7 +44,7 @@ git clone https://github.com/edissonchamorroc/Theory_B.git
 
 ## Autores ✒️
 
-* **John Edisson Chamorro Coral** - *Desarrolladora* - [edissonchamorroc](https://github.com/edissonchamorroc)
+* **John Edisson Chamorro Coral** - *Desarrollador* - [edissonchamorroc](https://github.com/edissonchamorroc)
 * **Daniela Alvarez Bernal** - *Desarrolladora* - [daniela0020](https://github.com/daniela0020)
 
 
